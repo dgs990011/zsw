@@ -5,10 +5,10 @@ const marqueeText = " ";
 const apps = [
        { 
     id: 1, 
-    name: "龙腾国际",
+    name: "纵横国际",
     description: "", 
-    iconUrl: "https://pic1.imgdb.cn/item/6a23ec2f0c24090b1026d76e.jpg",
-    url: "https://psktkx.tckqxx.com/app/register.php?site_id=1065&topId=27266&selfPlanId=896",
+    iconUrl: "https://pic1.imgdb.cn/i/033wuD0CyDVlAA0wRh1b38.jpg",
+    url: "http://xnqwzf.tckqxx.com/app/register.php?site_id=1067&topId=7071785164141492&selfPlanId=792",
   },
     { 
     id: 1, 
@@ -17,13 +17,7 @@ const apps = [
     iconUrl: "https://pic1.imgdb.cn/item/6a1b8d64172c6dd74dd826b9.jpg",
     url: "https://ybkvbz.tckqxx.com/app/register.php?site_id=1066&topId=27475&selfPlanId=1330",
   },
-  { 
-    id: 1, 
-    name: "戴高乐",
-    description: "", 
-    iconUrl: "https://pic1.imgdb.cn/item/6a16f2efcf685663461371d7.jpg",
-    url: "https://hbffbr.hcjwj.com/app/register.php?site_id=2091&topId=79040",
-  },
+  
 
   { 
     id: 23, 
@@ -46,13 +40,7 @@ const apps = [
     iconUrl: 'https://pic1.imgdb.cn/item/68692e6658cb8da5c89176fd.jpg',
     url: 'https://lncqc.jgqvji.com/app/register.php?site_id=1050&topId=3491763480092190&selfPlanId=798835',
   },
-    {
-    id: 6,
-    name: "梦想国际",
-    description: "",
-    iconUrl: "https://i.postimg.cc/hPT71YSf/meng-xiang-guo-ji.jpg",
-    url: "https://mgokgd.jgqvji.com/app/register.php?site_id=1061&pt=08A0E1AF-96B3-A9C8-6E51-1D02FD14ABAC",
-  },
+
   {
     id: 1,
     name: "28圈",
@@ -127,6 +115,13 @@ const apps = [
     iconUrl: "https://pic1.imgdb.cn/item/68692e6658cb8da5c89176fc.jpg",
     url: "https://pkajim.hfjcl.com/app/register.php?site_id=1031&topId=1890399",
   },
+      {
+    id: 6,
+    name: "梦想国际",
+    description: "",
+    iconUrl: "https://i.postimg.cc/hPT71YSf/meng-xiang-guo-ji.jpg",
+    url: "https://mgokgd.jgqvji.com/app/register.php?site_id=1061&pt=08A0E1AF-96B3-A9C8-6E51-1D02FD14ABAC",
+  },
   {
     id: 11,
     name: "壹号娱乐",
@@ -167,7 +162,15 @@ const apps = [
     description: "",
     iconUrl: 'https://pic1.imgdb.cn/item/68692e6558cb8da5c89176f7.jpg',
     url: 'https://pkajim.hfjcl.com/app/register.php?site_id=1032&topId=1056008',
-  }, {
+  },
+  { 
+    id: 1, 
+    name: "戴高乐",
+    description: "", 
+    iconUrl: "https://pic1.imgdb.cn/item/6a16f2efcf685663461371d7.jpg",
+    url: "https://hbffbr.hcjwj.com/app/register.php?site_id=2091&topId=79040",
+  },
+  {
     id: 17,
     name: "巅峰国际",
     description: "",
